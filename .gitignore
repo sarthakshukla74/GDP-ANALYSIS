@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter/Colab checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output folders and zips
+GDP INDIVIDUAL/
+GDP INDIVIDUALgrowth/
+GDP growth(1960-2016)/
+GDP INDIVIDUAL.zip
+GDP INDIVIDUALgrowth.zip
+
+# Dataset (optional)
+gdp.csv
+
+# Colab / Notebook related files
+*.ipynb
+*.ipynb_checkpoints
+
+# VS Code settings (optional)
+.vscode/
